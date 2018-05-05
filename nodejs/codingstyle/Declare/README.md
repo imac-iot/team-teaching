@@ -1,4 +1,4 @@
-#宣告
+# 宣告
 - 宣告變數
   ```javascript
   //不使用var宣告的變數為全域變數
@@ -39,7 +39,7 @@
   console.log(a); // 5
   ```
     
- - const
+  - const
   ```javascript
   //在嚴謹模式下會顯示TypeError: Assignment to constant variable.錯誤
   const a = 1;
