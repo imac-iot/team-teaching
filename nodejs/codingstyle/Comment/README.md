@@ -1,4 +1,4 @@
-#註解
+# 註解
 - Comment Syntax
 
 ```javascript
