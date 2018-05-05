@@ -1,4 +1,4 @@
-#2.1. Invoking the Interpreter
+# 2.1. Invoking the Interpreter
 
 Python的直譯器大多會裝在/usr/local/bin/python。如果放在/usr/local/bin/在你的Unix shell’s 會尋找讓它可以藉由命令去啟動。
 ```Bash
